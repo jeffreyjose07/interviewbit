@@ -1,3 +1,3 @@
 # interviewbit
 everycode that i do at interviewbit
-but first i will have to add main function and other supplementary functions
+but it can't be compiled in a C++ Compiler without adding the main function
